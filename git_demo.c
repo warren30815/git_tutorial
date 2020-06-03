@@ -9,7 +9,7 @@ void B() {
 }
 
 void C() {
-
+    printf("C");
 }
 
 void D() {
