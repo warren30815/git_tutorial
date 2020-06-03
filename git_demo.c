@@ -5,7 +5,7 @@ void A() {
 }
 
 void B() {
-    printf("C");
+
 }
 
 void C() {
