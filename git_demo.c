@@ -16,6 +16,10 @@ void D() {
     printf("D");
 }
 
+void E(){
+    printf("E");
+}
+
 int main(int argc, char *argv[]) {
 
     A();
